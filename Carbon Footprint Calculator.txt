@@ -1,0 +1,47 @@
+Carbon Footprint Calculator
+
+A basic tool to estimate carbon emissions from Energy, Waste, and Travel activities.
+
+How It Works
+Provide basic data in three categories:
+
+Energy: Enter your monthly electricity, gas, and fuel expenses.
+
+Waste: Input your monthly waste production and recycling percentage.
+
+Travel: Provide annual travel distance and vehicle fuel efficiency.
+
+Prerequisites
+The things you need before installing the software.
+
+Requirements:
+A step by step guide that will tell you how to get the development environment up and running.
+
+Install the following Python modules:
+
+pip install streamlit
+pip install datetime 
+
+Usage Example
+
+Input:
+
+Name: Dhruvin Kheni
+Year: 2024
+Electricity Cost: €60/month
+Gas Cost: €40/month
+Fuel Cost: €30/month
+Monthly Waste: 45 kg
+Recycling Rate: 50%
+Annual Travel: 10,000 km
+Fuel Efficiency: 8 L/100km
+
+Output:
+Energy Emissions: 500 kg CO₂
+Waste Emissions: 30 kg CO₂
+Travel Emissions: 2,800 kg CO₂
+
+Total Emissions: 3,330 kg CO₂
+
+This simplified approach provides a quick overview of your carbon footprint and encourages sustainable choices.
+
